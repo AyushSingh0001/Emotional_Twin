@@ -72,16 +72,19 @@ Visualizes how the user's emotional state changes over time.
 |    User Input     |  ----->   | Sentiment + NLP Analysis  |
 +-------------------+           +---------------------------+
                                        ↓
+                                       
                               +------------------+
                               | Style Analyzer    |
                               | (spacy adjectives,|
                               | sentence length)  |
                               +------------------+
                                        ↓
+                                       
      +------------+     +------------------+     +-------------------+
      | Memory Graph| -->| Emotional Reasoner| --> | Personalized Reply|
      +------------+     +------------------+     +-------------------+
                                        ↓
+                                       
                             +---------------------+
                             | Emotional Memory Log |
                             +---------------------+
