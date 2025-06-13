@@ -1,0 +1,27 @@
+user_samples = [
+    "I really enjoy peaceful mornings with a cup of coffee and a book.",
+    "I don't like when people are rude. Empathy matters more than anything.",
+    "I'd prefer staying in with close friends over a loud party.",
+    "Planning ahead makes me feel in control. I like structure in my day.",
+    "Nature walks always calm me down and help me reflect.",
+    "Technology fascinates me, especially when it solves human problems.",
+    "I often find myself overthinking, but I also value emotional awareness.",
+    "Creativity is essential — whether it's art, writing, or problem-solving.",
+    "I appreciate honesty, even when it’s uncomfortable. It's better than pretense.",
+    "I believe in deep work, not multitasking. Focus creates quality."
+]
+
+memory_graph = {
+    "food": "loves pasta, dislikes spicy food, and enjoys trying fusion dishes occasionally",
+    "mood": "naturally introspective but usually optimistic and calm",
+    "technology": "passionate about ethical AI, emotional computing, and mindful tech",
+    "decision": {
+        "social": "prefers meaningful one-on-one conversations over large social gatherings",
+        "work": "values structured planning, calm environments, and clear goals",
+        "creative": "enjoys working on emotionally resonant or human-centered problems",
+        "stress": "handles pressure by organizing tasks and taking mindful breaks"
+    },
+    "values": ["honesty", "empathy", "focus", "emotional intelligence", "creativity"],
+    "hobbies": ["reading psychology articles", "writing reflections", "nature walks", "tinkering with AI tools"],
+    "philosophy": "believes that technology should extend human empathy, not replace it"
+}
